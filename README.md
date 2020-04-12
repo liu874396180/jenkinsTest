@@ -11,3 +11,4 @@
 7. three.vue --------------富文本测试
 8. vantText.vue --------------vant样式测试
 9. one.vue--------------------跨域
+10. jenkins --test
